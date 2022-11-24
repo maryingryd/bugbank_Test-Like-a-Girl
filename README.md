@@ -3,6 +3,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![Netlify Status](https://api.netlify.com/api/v1/badges/32f537ef-2202-432e-9ff1-252fc87c490e/deploy-status)](https://app.netlify.com/sites/bugbank/deploys)
 
 # Bug Bank
+Trata-se de uma mentoria Test Like a Girl. Esta atividade, consitia em criar o jira e card, com casos de testes etc para algumas funções.
+
+https://maryingryd.atlassian.net/jira/software/projects/PBB/boards/1
 
 O banco com bugs e falhas do seu jeito.
 
